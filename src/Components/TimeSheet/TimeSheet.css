@@ -1,0 +1,80 @@
+.input-color{
+    border: 1px solid #fff;
+    width: 20px;
+}
+.input-group{
+    gap: 8px;
+}
+.input-setup{
+    border-radius: 0;
+    background-color: #fff!important;
+    color: #000 !important;
+    box-shadow: 0 2px 8px #ccc;
+    text-align: left;
+}
+.thead-dark tr th {
+    background-color: #670099;
+    color: #fff;
+}
+.list-items{
+    box-shadow: 0 0 8px #ccc;
+}
+.btn-add{
+    border-radius: 0;
+    background-color: #670099 !important;
+    color: #fff !important;
+    box-shadow: 0 2px 8px #ccc;
+    border: 0;
+}
+.circ{
+    width: 50px;
+}
+.btn-view{
+    background-color:#670099;
+    border-radius: 2rem;
+    font-size: x-small;
+    padding: 2px 14px;
+    color: white;
+    border: lightblue;
+    margin-right: 5px;
+}
+.details{
+    max-height: 0;
+    overflow: hidden;
+
+}
+.dropdown.active .details{
+max-height: 300px;
+
+}
+
+.para{
+max-height: 0;
+overflow: hidden;
+right: 10px;
+cursor: pointer;
+}
+.containers.active .para{
+padding: 10px;
+max-height: 300px;
+border: solid 1px rgb(240, 232, 232);
+text-align: center;
+display: block;
+}
+.avatar-size{
+cursor: pointer;
+margin-left: 20px;
+padding-bottom: 10px;
+}
+.header-sections{
+    justify-content: space-between;
+
+}
+.search-boxs{
+    padding: 0 10px 0 10px;
+    border-radius: 2rem;
+}
+.main-content-sec{
+
+}
+
